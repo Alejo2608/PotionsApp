@@ -1,2 +1,2 @@
 # PotionsApp
-App De Posiones
+App De Pociones
